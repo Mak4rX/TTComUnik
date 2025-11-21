@@ -1,0 +1,7 @@
+{
+  "name": "HypnoSpiral FX",
+  "description": "Apply hypnotic spiral and optical illusion effects to your photos instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
